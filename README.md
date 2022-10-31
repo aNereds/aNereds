@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 👨‍💻 I’m currently working on PIM CORE,Magento 2 based shops, API's
-- 🌱 I’m currently learning Symfony, React.js & Go-lang
 - 💬 Ask me about PHP Docker Api's Linux(Fedora ❤)
 - 🚀 Ryzen 5950X RTX3070
 - 📫 How to reach me: 💻 a.nereds@gmail.com 🚀https://t.me/andzhusha
